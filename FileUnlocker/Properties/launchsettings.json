@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "FileUnlocker (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "FileUnlocker (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
